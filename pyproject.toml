@@ -5,8 +5,8 @@ description = "A Mask Manager to not loose track in the preprocessing"
 authors = ["AI Center of Excellence"]
 
 [tool.poetry.dependencies]
-python = "3.11.*"
-numpy = "^1.26.3"
+python = "^3.8.1"
+numpy = "^1.18.0"
 returns = "^0.22.0"
 
 [tool.poetry.group.dev]
